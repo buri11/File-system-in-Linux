@@ -1,5 +1,5 @@
 # File-system-in-Linux
-This project is about navigating in the Linux file system and reading files via raw bytes and interpreting them accordingly.
+This project is about navigating in the Linux file system and reading raw bytes form the files and interpreting them accordingly.
 
 This was a project at the Operating Systems subject at my university. The requirements for this project are listed in the a1.pdf file along with a comprehensive description of the format of the files that are to be read and the commands for running the project.
 
